@@ -1,1 +1,1 @@
-for (let i = 0; i < 25; i++) {
+while (countdown > 0) { console.log [return "done"])
